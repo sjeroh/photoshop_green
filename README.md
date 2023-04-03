@@ -1,1 +1,1 @@
-# photoshop_green
+# 포토샵 기능 메모
